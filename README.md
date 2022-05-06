@@ -8,3 +8,4 @@
 #### What I'm Looking For
 :eyes: I am currently looking for a full-time software engineering role that will allow me to create a great impact. My goal is to motivate, teach, and inspire people to become their better self in any situation. 
 
+[![Linkedin Badge](https://www.linkedin.com/in/chenmichael2/)]
