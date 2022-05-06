@@ -1,4 +1,4 @@
-# Welcome to my Github :wave:
+# Welcome to my Github <img src="wave.gif" width="30px">
 
 ### About Me
 
