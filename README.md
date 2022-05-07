@@ -11,4 +11,4 @@
 
 ### Tech Stack
 
-
+<img src="HTML.png" width="30px">
