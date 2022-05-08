@@ -13,4 +13,4 @@ Some links that show more about me! (Linkedin, Instagram, and Portfolio)
 
 ### Tech Stack
 
-<div><img src="html5-icon-1.png" height="30px"/> <img src="css.png" height="30px"/></div>
+<img src="html5-icon-1.png" height="30px"/> <img src="css.png" height="30px"/> <img src="javascript-icon.png" />
