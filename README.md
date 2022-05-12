@@ -13,4 +13,4 @@ Some links that show more about me! (Linkedin, Instagram, and Portfolio)
 
 ### Tech Stack
 
-<img src="html5-icon-1.png" height="50px"/><img src="css.png" height="50px"/> <img src="javascript-icon1.png" height="50px"/> <img src="python.png" height="50px"/> <img src="node-js-icon-8.png" height="50px"/> <img src="react.png" height="50px"/> <img src="postgreSQL.png" height="50px"/> <img src="mongodb-3.png" height="50px"/> <img src="django-icon-0.png" height="50px"/> <img src="nextjs.png" height="50px"/> 
+<img src="html5-icon-1.png" height="50px"/><img src="css.png" height="50px"/> <img src="javascript-icon1.png" height="50px"/> <img src="python.png" height="50px"/> <img src="node-js-icon-8.png" height="50px"/> <img src="react.png" height="50px"/> <img src="postgreSQL.png" height="50px"/> <img src="mongodb-3.png" height="50px"/> <img src="django-icon-0.png" height="50px"/> <img src="nextjs.png" height="50px"/> <img src="mui-logo.png" height="50px">
