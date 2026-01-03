@@ -2,7 +2,7 @@
 
 ### About Me
 
-:boy: Hello, my name is Michael Chen. I am a software engineer graduate from General Assembly <img src="/general-assembly_logo.png" width="12px" height="12px"> in January 2022 and I have a bachelor's in Biological Sciences from the University of California, Irvine. I originated from the healthcare field as an Emergency Medical Technician for PRN Ambulance and immediately after went into the United States Marine Corps and currently serving as a Expeditionary Airfield Technician Reservist.
+:boy: Hello, my name is Michael Chen. I’m a software engineer who graduated from General Assembly <img src="/general-assembly_logo.png" width="12px" height="12px"> in January 2022. Before transitioning into tech, I earned my bachelor’s degree in Biological Sciences from the University of California, Irvine. I began my career in healthcare as an Emergency Medical Technician with PRN Ambulance. Afterward, I joined the United States Marine Corps, where I currently serve as an Expeditionary Airfield Technician. I'm currently working at Mercury Insurance as a Marketing Web Developer and a student at Boston University pursuing my Master's in Data Science. 
 
 Some links that show more about me!
 
